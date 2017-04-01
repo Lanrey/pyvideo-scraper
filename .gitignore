@@ -1,0 +1,6 @@
+# Distribution / packaging
+.Python
+lib/
+lib64/
+.pyvenv.cfg
+*.idea
