@@ -1,6 +1,6 @@
-# Distribution / packaging
-.Python
-lib/
-lib64/
-.pyvenv.cfg
+lib/python3.6/site-packages
+bin
+.idea
+lib64
+pyvenv.cfg
 *.idea
